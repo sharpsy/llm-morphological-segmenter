@@ -1,0 +1,12 @@
+-f https://download.pytorch.org/whl/cu113
+
+tqdm
+numpy
+torch==1.12.1
+transformers
+accelerate
+sentencepiece
+evaluate
+pandas
+protobuf
+scikit-learn

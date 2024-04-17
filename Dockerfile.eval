@@ -1,0 +1,5 @@
+FROM python:3.10
+
+RUN --mount=type=cache,target=/root/.cache \
+    pip install --root-user-action=ignore --disable-pip-version-check morphoeval pandas
+
