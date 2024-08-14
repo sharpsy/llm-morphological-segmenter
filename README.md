@@ -34,15 +34,26 @@ You can use the following make command to build and run the segmentation model:
 If you use any part of this code or the LLMSegm approach in your work, please cite our paper using the following BibTeX entry:
 
 ```bibtex
-@inproceedings{pranjic2024llmsegm,
-  title={{LLMS}egm: Surface-level Morphological Segmentation Using Large Language Models},
-  author={Pranji\'{c}, Marko and Robnik \v{S}ikonja, Marko, and Pollak, Senja},
-  booktitle = {Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation ({LREC-COLING}'24)},
-  volume={XX},
-  number={X},
-  pages={xx-xx},
-  year={2024},
+@inproceedings{pranjic-etal-2024-llmsegm,
+    title = "{LLMS}egm: Surface-level Morphological Segmentation Using Large Language Model",
+    author = "Pranji{\'c}, Marko  and
+      Robnik-{\v{S}}ikonja, Marko  and
+      Pollak, Senja",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.933",
+    pages = "10665--10674"
 }
+
 ```
 
 ## License
